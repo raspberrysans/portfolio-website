@@ -17,7 +17,7 @@ body {
 
 .jitter {
     animation-duration: 0.3s;
-    animation-timing-function: ease-in-out;
+    /*animation-timing-function: ease-in-out;*/
     animation-fill-mode: forwards;
     animation-iteration-count: infinite;
     animation-name: jittery;
